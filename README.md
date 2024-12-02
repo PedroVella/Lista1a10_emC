@@ -21,6 +21,7 @@ Abra o Codeblocks e importe os arquivos desejados.
 
 ## 🛠️ Tecnologias Utilizadas
 Linguagem: C
+
 IDE: Codeblocks
 
 ## 🤝 Contribuições
