@@ -23,7 +23,7 @@ Abra o Codeblocks e importe os arquivos desejados.
 Linguagem: C
 IDE: Codeblocks
 
-🤝 Contribuições
+## 🤝 Contribuições
 Contribuições são bem-vindas! Se você encontrar algum problema ou quiser sugerir melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 🧑‍💻 Desenvolvido por Pedro Vella e Danilo Vaz
